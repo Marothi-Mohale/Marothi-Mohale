@@ -1,6 +1,6 @@
 # Hi, I'm Marothi
 
-Cape Town, South Africa | Full-stack builder | Data engineering learner
+Cape Town, South Africa | Full-stack builder | Data Engineer
 
 ## Web Development Stack
 
