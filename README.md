@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Marothi
 
-<!--
-**Marothi-Mohale/Marothi-Mohale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cape Town, South Africa | Full-stack builder | Data Engineer
 
-Here are some ideas to get you started:
+**Web:** Next.js · React · Tailwind CSS · Node.js · NestJS · Prisma · PostgreSQL · Redis  
+**Data:** Python · SQL · Spark · Kafka · Databricks · Azure Data Factory · Azure Data Lake · Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Building modern platforms and data systems with a focus on clarity, scalability, and real-world impact.
+
+## Currently
+
+- building **Perfect Tutorials** into a modern tutoring platform
+- creating production-style web applications
+- growing into cloud and data engineering
+- building a portfolio that blends software, data, and product thinking
+
+## Web Development Stack
+
+- Next.js
+- React
+- Tailwind CSS
+- Node.js
+- NestJS
+- Prisma ORM
+- PostgreSQL
+- Redis
+- Clerk / NextAuth
+- Stripe
+- Cloudinary
+- Resend / SendGrid
+- Vercel
+- Railway / Render
+- Supabase
+
+## Data Engineering Stack
+
+- Python
+- SQL
+- Apache Spark
+- Apache Kafka
+- Databricks
+- Azure Data Factory
+- Azure Data Lake
+- PostgreSQL
+- Redis
+- Power BI
+- Git + GitHub
+
+## Current Project
+
+### Perfect Tutorials
+A modern tutoring platform for Mathematics and Science, built with a product mindset:
+clean frontend, scalable backend, cloud-ready infrastructure, and future analytics capability.
+
+## Philosophy
+
+Clean interfaces. Strong systems. Real usefulness.
+
+**Learn. Grow. Excel.**
