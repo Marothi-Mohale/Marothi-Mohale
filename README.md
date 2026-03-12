@@ -1,6 +1,7 @@
 # Hi, I'm Marothi
 
 Cape Town, South Africa | Full-stack builder | Data Engineer
+
 Bsc in Computer Science and Business Computing, University Of Cape Town
 
 ## Web Development Stack
