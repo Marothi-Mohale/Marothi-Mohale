@@ -53,4 +53,4 @@ clean frontend, scalable backend, cloud-ready infrastructure, and future analyti
 
 Clean interfaces. Strong systems. Real usefulness.
 
-**Learn. Grow. Excel.**
+**Divide. Then. Conquer.**
