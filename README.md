@@ -38,16 +38,19 @@ Bsc in Computer Science and Business Computing, University Of Cape Town
 
 ## Currently
 
-- building **Perfect Tutorials** into a modern tutoring platform
+- building **PriceProof** into a modern consumer-focused platform for fair retail pricing and payment transparency
 - creating production-style web applications
 - growing into cloud and data engineering
 - building a portfolio that blends software, data, and product thinking
 
 ## Current Project
 
-### Perfect Tutorials
-A modern tutoring platform for Mathematics and Science, built with a product mindset:
-clean frontend, scalable backend, cloud-ready infrastructure, and future analytics capability.
+### PriceProof
+A modern consumer protection and retail transparency platform focused on helping people document quoted or displayed prices before payment, compare them to the final charged amount, and identify unfair or hidden payment-related markups.
+
+PriceProof is being built with a strong product and systems mindset: a clean user experience, a scalable backend, cloud-ready infrastructure, and future-facing analytics capability. The platform is designed to support evidence capture through images, receipts, quoted-price records, and transaction comparisons, making it easier to detect pricing discrepancies and build structured complaint evidence when consumers are charged more than the price originally communicated.
+
+Beyond the consumer experience, the project is also positioned as a broader payments and compliance solution with room to expand into merchant-side tooling, pricing intelligence, and risk analysis. The goal is to build a practical, real-world platform that sits at the intersection of software engineering, product design, consumer trust, and payment transparency in South Africa.
 
 ## Philosophy
 
